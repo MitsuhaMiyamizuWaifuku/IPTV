@@ -18,7 +18,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1595002763~acl=/hls-b/ingest_205_*/*~hmac=bfa9086747a74379ce3298f3806991f7bab8730e56d090795bd8dc6f3ee272b9/hls-b/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" ,RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1024px-RCTI_logo_2015.svg.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
@@ -31,10 +31,10 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=187738949&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIwIDEyOjI1OjM4IFBNJmhhc2hfdmFsdWU9TXFTeUsrdjNZOWhBTkd4TGFXZnl0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgwMTYwOTV8MTI1LjE2NC4yMzIuMTI1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1303727007_b384000_sleng.m3u8
+https://cdngb196.useetv.com/joss/15/transtv/chunklist_w2014274039_b1344100_sleng.m3u8?enc=ykzpAqck2hnivoEeGI-org&id=&exp=1595002148
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" ,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2028748338_b384000_sleng.m3u8
+https://cdngb196.useetv.com/joss/15/trans7/chunklist_w958533767_b1344100_sleng.m3u8?enc=eNWIRycOewHB7LX8TXOoXg&id=&exp=1595002098
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
 https://cdngb196.useetv.com/joss/15/net/chunklist_w1419495456_b1344100_sleng.m3u8?enc=Y5W3G08lsss9ViCvlOG8gQ&id=&exp=1594998038
@@ -62,6 +62,9 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" ,BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1-1.png" ,RODJA TV
+https://cdngb196.useetv.com/joss/18/rodjatv/chunklist_w1045172259_b684100_sleng.m3u8?enc=1it7AgkPSnAoiFvtPphvZA&id=&exp=1595002261
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
 https://cdngb196.useetv.com/joss/18/nhkworld/chunklist_w1962163980_b684100_sleng.m3u8?enc=cw3RDURkrcj1_SvoQcc6Og&id=&exp=1594998256

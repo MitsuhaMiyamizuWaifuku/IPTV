@@ -13,7 +13,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/S
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",GTV
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=187415259&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIwIDc6MDc6MTQgQU0maGFzaF92YWx1ZT1oMGNyYVZqTVpYR1FJT051Slc0UEpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODAxNjA5NXwxMjUuMTY0LjIzMi4xMjU=
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1594983471~acl=/hls-p/ingest_205_*/*~hmac=a150cdaebe6d99018354a055a506abec37ae4d0ee95b176a03261da0f92fd960/hls-p/ingest_205_720p/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U | TELKOMSEL
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1594982665~acl=/hls-p/ingest_665_*/*~hmac=1f4f7c672f038f72ced2be0abbe29404a5524db1d4a5de01ae7ca4cbd6ab2eae/hls-p/ingest_665_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8

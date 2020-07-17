@@ -66,9 +66,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1-1.png" ,RODJA TV
 https://cdngb196.useetv.com/joss/18/rodjatv/chunklist_w1045172259_b684100_sleng.m3u8?enc=1it7AgkPSnAoiFvtPphvZA&id=&exp=1595002261
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
-https://cdngb196.useetv.com/joss/18/nhkworld/chunklist_w1962163980_b684100_sleng.m3u8?enc=cw3RDURkrcj1_SvoQcc6Og&id=&exp=1594998256
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" ,USEE PRIME
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 
@@ -80,6 +77,9 @@ https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_slen
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" ,IDKU
 https://cdnjt14.useetv.com/joss/15/idku/chunklist_w1918910534_b1344100_sleng_useetv.m3u8?enc=WVB8kPQRXyRFkZQJTXNajg&id=&exp=1595001330
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
+https://cdngb196.useetv.com/joss/18/nhkworld/chunklist_w1962163980_b684100_sleng.m3u8?enc=cw3RDURkrcj1_SvoQcc6Og&id=&exp=1594998256
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ,ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8

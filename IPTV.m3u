@@ -1,145 +1,85 @@
 #EXTM3U | MITSUHA MIYAMIZU
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" ,TVRI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" ,TVRI
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" ,TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" ,TVRI NASIONAL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" ,TVRI DKI JAKARTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" ,TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" ,TVRI BUDAYA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" ,TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" ,GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" ,INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1595002763~acl=/hls-b/ingest_205_*/*~hmac=bfa9086747a74379ce3298f3806991f7bab8730e56d090795bd8dc6f3ee272b9/hls-b/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1595003028~acl=/hls-p/ingest_204_*/*~hmac=5a3969f1d3b21cb00adf40b67b5d27d0d51096a785e4ae3fc09c3765436d8811/hls-p/ingest_204_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",MNC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1280px-MNC_logo_2015.svg.png" ,MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1280px-Antv_logo_%282017%29.svg.png" ,ANTV
 https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=187738949&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIwIDEyOjI1OjM4IFBNJmhhc2hfdmFsdWU9TXFTeUsrdjNZOWhBTkd4TGFXZnl0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgwMTYwOTV8MTI1LjE2NC4yMzIuMTI1
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1303727007_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" ,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2028748338_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",NET.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
 https://cdngb196.useetv.com/joss/15/net/chunklist_w1419495456_b1344100_sleng.m3u8?enc=Y5W3G08lsss9ViCvlOG8gQ&id=&exp=1594998038
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" ,RTV
 https://cdngb196.useetv.com/joss/18/rtv/chunklist_w1432131050_b684100_sleng.m3u8?enc=S-DZql9n-hxfSNUcBDkyGA&id=&exp=1594998106
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",METRO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" ,METRO TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",MAGNA CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png" ,MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1554637099_b3192000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" ,KOMPAS TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",JTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1245px-JTV_%282012%29.svg.png" ,JTV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TV ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" ,TV ONE
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAPzOjLkLdSSMBlMCiGhJ9w)/dm/3/x619221/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",INEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" ,INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",BERITASATU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e7/BeritaSatu.png" ,BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",NHK WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
 https://cdngb196.useetv.com/joss/18/nhkworld/chunklist_w1962163980_b684100_sleng.m3u8?enc=cw3RDURkrcj1_SvoQcc6Og&id=&exp=1594998256
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",BALI TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",LOMBOK TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",CHANNEL 4U
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4a0fb5ee-e514-4eec-8917-50a35533ba4c)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",ID KU
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PRIME
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" ,USEE PRIME
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PHOTO
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" ,USEE PHOTO
+https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_sleng_useetv.m3u8?enc=2tbGFBwE5oblk_sZNAcb1g&id=&exp=1595001085
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RUANG TERAMPIL
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" ,USEE PHOTO
+https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_sleng_useetv.m3u8?enc=2tbGFBwE5oblk_sZNAcb1g&id=&exp=1595001085
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" ,IDKU
+https://cdnjt14.useetv.com/joss/15/idku/chunklist_w1918910534_b1344100_sleng_useetv.m3u8?enc=WVB8kPQRXyRFkZQJTXNajg&id=&exp=1595001330
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",AL IMAN
-http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",AL-BAHJAH TV
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",Hadi TV 2
-http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RELIGI",MTA TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RELIGI",RODJA TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(77b296f5-13c9-42b1-ad8d-35ad237564f8)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI",TAWAF TV
-http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ,ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIPLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" ,ANIPLUS
 http://210.210.155.35:80/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",CARTOON NETWORK
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",DISNEY CHANNEL
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",POGO
-http://202.163.117.6:9981/stream/channelid/872564616
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",EGG NETWORK
-http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS",MAX2U
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(50332677-b1c4-47d4-ab87-70956e2d1d1b)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",TCT KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",TVO KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8

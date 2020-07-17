@@ -22,7 +22,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1595003028~acl=/hls-p/ingest_204_*
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1280px-Antv_logo_%282017%29.svg.png" ,ANTV
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=187738949&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIwIDEyOjI1OjM4IFBNJmhhc2hfdmFsdWU9TXFTeUsrdjNZOWhBTkd4TGFXZnl0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgwMTYwOTV8MTI1LjE2NC4yMzIuMTI1
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,TRANS TV
 https://cdngb196.useetv.com/joss/15/transtv/chunklist_w2014274039_b1344100_sleng.m3u8?enc=ykzpAqck2hnivoEeGI-org&id=&exp=1595002148
@@ -125,4 +125,40 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB86
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1000px-Natgeologo.svg.png" ,NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" ,NAT GEO WILD
+http://188.72.4.230:8000/mytv/My1p@9090/173
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" ,AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" ,KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" ,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png" ,SINEMA INDONESIA
+http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png" ,CINEMA WORLD
+http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png" ,K DRAMA
+http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" ,AXN
+
+
+#EXTINF:-1 tvg-logo="" ,AXN
+
+
+#EXTINF:-1 tvg-logo="" ,AXN
+
+
+#EXTINF:-1 tvg-logo="" ,AXN
+
+
+#EXTINF:-1 tvg-logo="" ,AXN
+
 

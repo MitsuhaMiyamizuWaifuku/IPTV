@@ -10,13 +10,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://103.148.44.22:5649/IndoSiar
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1595002763~acl=/hls-b/ingest_205_*/*~hmac=bfa9086747a74379ce3298f3806991f7bab8730e56d090795bd8dc6f3ee272b9/hls-b/ingest_205_720p/index.m3u8
+http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1595003028~acl=/hls-p/ingest_204_*/*~hmac=5a3969f1d3b21cb00adf40b67b5d27d0d51096a785e4ae3fc09c3765436d8811/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595044974~acl=/hls-p/ingest_204_*/*~hmac=6d51006d45cec857a49b239f966d8f78027555c9f374450c82a5eee6244c0c1c/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1280px-MNC_logo_2015.svg.png" ,MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -25,13 +25,13 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,TRANS TV
-https://cdngb196.useetv.com/joss/15/transtv/chunklist_w2014274039_b1344100_sleng.m3u8?enc=ykzpAqck2hnivoEeGI-org&id=&exp=1595002148
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1324089824_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" ,TRANS 7
-https://cdngb196.useetv.com/joss/15/trans7/chunklist_w958533767_b1344100_sleng.m3u8?enc=eNWIRycOewHB7LX8TXOoXg&id=&exp=1595002098
+https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GwPxkuwSJsGonnPaYAPADvc)/dm/3/x6p1gw7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
-https://edgejt6.useetv.com/joss/15/net/chunklist_w1441653515_b1344100_sleng.m3u8?enc=V1hE-EYL40FTNJjYz5ptEw&id=&exp=1595012372
+https://r1---sn-2uuxa3vh-n0c6.googlevideo.com/videoplayback?expire=1595052477&ei=XT0SX9TYAaDv4-EPit-o4AE&ip=125.164.232.125&id=WZ83bBwWZQY.1&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=0A&mm=44%2C29&mn=sn-2uuxa3vh-n0c6%2Csn-npoe7nez&ms=lva%2Crdu&mv=m&mvi=1&pl=26&initcwndbps=202500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1595030782&fvip=1&keepalive=yes&fexp=23883098&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRgIhAJU-WIUpUwEN3Cl6LFJdZ9d3oQKGzUNVFxfoGxvsipSnAiEAmorUtEmsH2j4LdlUBiCd2A10T_HbcZcvqszShXxDfNY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgF5spaRpiA9eZqLt_htZUvo8EfI0c9ozpGiJ16tJmoFECIQCBhx_HcTZZSnvQ7hCmZpa7iQfILic_qqa_WtJ7YLVFyA%3D%3D&alr=yes&cpn=55msxsWt33XBJPuj&cver=20200716&headm=3&rn=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" ,RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8

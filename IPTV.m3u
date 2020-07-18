@@ -16,7 +16,7 @@ http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1595044974~acl=/hls-p/ingest_204_*/*~hmac=6d51006d45cec857a49b239f966d8f78027555c9f374450c82a5eee6244c0c1c/hls-p/ingest_204_720p/index.m3u8
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1280px-MNC_logo_2015.svg.png" ,MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -64,7 +64,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1-1.png" ,RODJA TV
-https://cdngb196.useetv.com/joss/18/rodjatv/chunklist_w1045172259_b684100_sleng.m3u8?enc=1it7AgkPSnAoiFvtPphvZA&id=&exp=1595002261
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(77b296f5-13c9-42b1-ad8d-35ad237564f8)/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" ,USEE PRIME
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd

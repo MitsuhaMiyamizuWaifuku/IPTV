@@ -12,13 +12,13 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1595135819~acl=/hls-p/ingest_205_*/*~hmac=35419d7ae8cb9bc0cfcbea9d34dd2eb99df14ecef7f4d8020f8587ec47d6d385/hls-p/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" ,RCTI
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/rcti-tegak-logo-rcti-tegak-11563500815caw6siko4p.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1595135805~acl=/hls-p/ingest_204_*/*~hmac=99269a075ad457695d35dd6acf7b782b077c356469dd369076916e98fb9d483c/hls-p/ingest_204_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1280px-MNC_logo_2015.svg.png" ,MNC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" ,MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1280px-Antv_logo_%282017%29.svg.png" ,ANTV

@@ -12,7 +12,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1595135819~acl=/hls-p/ingest_205_*/*~hmac=35419d7ae8cb9bc0cfcbea9d34dd2eb99df14ecef7f4d8020f8587ec47d6d385/hls-p/ingest_205_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/rcti-tegak-logo-rcti-tegak-11563500815caw6siko4p.png" ,RCTI
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV

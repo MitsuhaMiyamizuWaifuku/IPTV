@@ -10,13 +10,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595135819~acl=/hls-p/ingest_205_*/*~hmac=35419d7ae8cb9bc0cfcbea9d34dd2eb99df14ecef7f4d8020f8587ec47d6d385/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595135805~acl=/hls-p/ingest_204_*/*~hmac=99269a075ad457695d35dd6acf7b782b077c356469dd369076916e98fb9d483c/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1280px-MNC_logo_2015.svg.png" ,MNC
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -31,10 +31,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1324089824_b384000_
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GwPxkuwSJsGonnPaYAPADvc)/dm/3/x6p1gw7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
-http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595135680~acl=/hls-p/ingest_875_*/*~hmac=cc1121ed6106b2846fdb0a428acf75466f00c89ddae3dd1a77da621bacac2c17/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" ,RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+https://edgejt7.useetv.com/joss/18/rtv/chunklist_w251796664_b684100_sleng.m3u8?enc=I5wN2qFlzXzka74oYnICKg&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595134601
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" ,METRO TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
@@ -64,8 +64,31 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-rodjatv-1-1-1.png" ,RODJA TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(77b296f5-13c9-42b1-ad8d-35ad237564f8)/manifest.mpd
+https://edgejt7.useetv.com/joss/18/rodjatv/chunklist_w790095869_b684100_sleng.m3u8?enc=yjoXVe7C0eAOFb-zgEmgsw&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595133999
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" ,TV TOKYO
+http://203.162.235.41:16903
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ,ANIMAX
+https://edgejt6.useetv.com/joss/18/animax/chunklist_w985848539_b684100_sleng.m3u8?enc=3ABv57ocC_h4LggcZaT-ew&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131708
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" ,ANIPLUS
+https://edgejt6.useetv.com/joss/18/aniplus/chunklist_w713287620_b684100_sleng.m3u8?enc=WZ94TmpBwsZYB1BehxnzgA&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131708
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" ,AXN
+https://edgejt6.useetv.com/joss/15/axn/chunklist_w1616230840_b1344100_sleng.m3u8?enc=OKnchH6nlrYG_PT7e17w0w&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131710
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" ,KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" ,CELESTIAL MOVIES
+https://edgejt6.useetv.com/joss/18/celestialmovie/chunklist_w1723338862_b684100_sleng.m3u8?enc=Q9jvFf3dDQQbNJCaevwq0A&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" ,THRILL
+https://edgejt6.useetv.com/joss/18/thrill/chunklist_w529142989_b684100_sleng.m3u8?enc=pwmFMprDRNohLx3ZKGyN-g&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131504
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" ,USEE PRIME
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
@@ -78,30 +101,6 @@ https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_slen
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_big.png" ,IDKU
 https://cdnjt14.useetv.com/joss/15/idku/chunklist_w1918910534_b1344100_sleng_useetv.m3u8?enc=WVB8kPQRXyRFkZQJTXNajg&id=&exp=1595001330
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" ,NHK WORLD
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" ,TV TOKYO
-https://ok.ru/video/2044227296884
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ,ANIMAX
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" ,ANIPLUS
-http://210.210.155.35:80/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" ,AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" ,KIX
-http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" ,CELESTIAL MOVIES
-http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" ,THRILL
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1000px-Fox_Movies_%28Asia%29_logo.svg.png" ,FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
@@ -140,7 +139,7 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB86
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f6/NatGeo_Wild.png" ,NAT GEO WILD
-http://188.72.4.230:8000/mytv/My1p@9090/173
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" ,K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8

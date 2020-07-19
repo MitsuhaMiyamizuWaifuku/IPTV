@@ -91,10 +91,10 @@ https://edgejt6.useetv.com/joss/18/celestialmovie/chunklist_w1723338862_b684100_
 https://edgejt6.useetv.com/joss/18/thrill/chunklist_w529142989_b684100_sleng.m3u8?enc=pwmFMprDRNohLx3ZKGyN-g&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1595131504
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" ,USEE PRIME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+ http://211.245.55.198:1024/m2u/239.192.53.7:49220
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" ,USEE PHOTO
-https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_sleng_useetv.m3u8?enc=2tbGFBwE5oblk_sZNAcb1g&id=&exp=1595001085
+http://211.245.55.198:1024/m2u/239.192.52.8:49220
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" ,USEE PHOTO
 https://cdnjt14.useetv.com/joss/15/useephoto/chunklist_w1675623692_b1344100_sleng_useetv.m3u8?enc=2tbGFBwE5oblk_sZNAcb1g&id=&exp=1595001085

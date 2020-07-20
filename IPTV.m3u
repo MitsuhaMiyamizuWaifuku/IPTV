@@ -10,13 +10,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1595192462~acl=/hls-p/ingest_205_*/*~hmac=9ba84db72419d2b7138efd5df03bef7652db6f404714f9789cebfefa65fa4095/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595229191~acl=/hls-p/ingest_205_*/*~hmac=9bfd4b1fdef257dab7947c5812080d80d564874eea9eecd55fa802a3df3abc31/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1595192315~acl=/hls-p/ingest_204_*/*~hmac=91d1a799b9f47ea35f6cdb1c0a9c410d85e8e772beda473dd69cc3a7f7e0f506/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595229482~acl=/hls-p/ingest_204_*/*~hmac=495c9abe66b5b0fbcd5652475d62710625219eda6b916b10693184ef33ac4009/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" ,MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -31,10 +31,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w812312763_b384000_s
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GwPxkuwSJsGonnPaYAPADvc)/dm/3/x6p1gw7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/nettv_all/skrz1j8exe/nettv_576p/chunks.m3u8?nimblesessionid=190172824&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDQ6NTc6MjYgUE0maGFzaF92YWx1ZT1FZVBsU0VOaTNUTnRudFhqSlo0a1RRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODAxNjA5NXwxODAuMjQ3LjE5Ny4xNjc=
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" ,RTV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/skrz1j8exe/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=190171980&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIwIDQ6NTc6MjUgUE0maGFzaF92YWx1ZT1PVThuTldSMDFhdmlzNUY3cXZGdXh3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODAxNjA5NXwxODAuMjQ3LjE5Ny4xNjc=
+https://etslive-2-vidio-com.akamaized.net/exp=1595229509~acl=/hls-p/ingest_geo_1561_*/*~hmac=f091a8a925ab4a0bd6f7ccf493487f107187041cd505dc8bae1ef8e0c31232ab/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/2000px-LogoMetroTVsince2010.svg.png" ,METRO TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd

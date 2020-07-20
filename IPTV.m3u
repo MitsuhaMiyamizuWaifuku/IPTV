@@ -31,7 +31,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w812312763_b384000_s
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GwPxkuwSJsGonnPaYAPADvc)/dm/3/x6p1gw7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" ",NET.
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+https://maxstream-qa-5.ocs.demo.accedo.tv/tv-channels/58015
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" ,RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1595229509~acl=/hls-p/ingest_geo_1561_*/*~hmac=f091a8a925ab4a0bd6f7ccf493487f107187041cd505dc8bae1ef8e0c31232ab/hls-p/ingest_geo_1561_720p/index.m3u8
